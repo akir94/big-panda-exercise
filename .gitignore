@@ -1,0 +1,6 @@
+.idea/
+.gradle/
+
+// generator executable
+generator-linux-amd64
+generator-windows-amd64.exe
